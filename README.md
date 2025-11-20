@@ -15,4 +15,3 @@
 - [code/02_loops.py](./code/02_loops.py)
 ## 🔗 参考資料
 - [Markdown文法一覧（CSV）](./markdown_cheatsheet.csv)
-- [Markdownチートシート（Markdown形式）](./docs/markdown_cheatsheet.md)
