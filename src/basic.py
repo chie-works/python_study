@@ -1,3 +1,13 @@
+
+---
+
+### `src/basic.py`
+```python
+# Chapter 1: Python基礎
+print("I don't know")
+print('say "I don\'t know"')
+
+
 print('********************************')
 print('* 【引用符】')
 print('********************************')
