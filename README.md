@@ -14,8 +14,12 @@
 ## 📂 章一覧
 
 ### 📘 Chapter 1： Python基礎
-- 🗒️ [ターミナルログ：01_log.md](logs/01_log.md)  
-- 💻 [VSCodeエディタ：01_src.md](src/01_src.md)
+- 💻 [コード](src/chapter01_code.py)  
+- 🗒️ [実行ログ](logs/chapter01_log.md)  
+- 📑 [まとめ](docs/chapter01_summary.md)  
+
+**学習テーマ**: 変数・演算子・制御構文  
+**成果**: 基本的な構文を理解し、簡単な計算プログラムを作成
 
 ### 📗 Chapter 2： データ構造
 - 🗒️ [ログ：02_log.md](logs/02_log.md)  
