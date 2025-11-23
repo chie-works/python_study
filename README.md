@@ -9,7 +9,7 @@
 - data_analysis/ : PandasやMatplotlibの練習コード
 
 ## 環境
-- Python 3.8 (Anaconda)
+- Python 3.13.5 (Anaconda)
 - VSCode
 
 ## 今後の予定
