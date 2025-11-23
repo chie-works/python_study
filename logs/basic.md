@@ -8,10 +8,6 @@
 'a is test'
 >>> 'a is {} {} {}'.format(1,2,3)
 'a is 1 2 3'
->>>  'a is {0} {1} {2}'.format(1,2,3)
-  File "<stdin>", line 1
-    'a is {0} {1} {2}'.format(1,2,3)
-IndentationError: unexpected indent
 >>> 'a is {0} {1} {2}'.format(1,2,3)
 'a is 1 2 3'
 >>> 
