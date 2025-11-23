@@ -2,7 +2,7 @@
 
 ## ターミナル実行ログ
 ```python
->>> 'a is {}'.format('a')
+>>> 'a is {}'.format('a') 
 'a is a'
 >>> 'a is {}'.format('test')
 'a is test'
@@ -14,3 +14,4 @@
 'My name is aaa bbb.Watashiwa bbb aaa desu'
 >>> 'My name is {name} {family}. Watashiwa {family} {name} desu'.format(name='aaa',family='bbb') 
 'My name is aaa bbb. Watashiwa bbb aaa desu'
+>>> 
