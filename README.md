@@ -1,14 +1,24 @@
-# 🌸 Python_study
+# Python 学習ログ
 
-このリポジトリは、Udemy講座  
-**「現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 + アメリカのシリコンバレー流コードスタイル」**  
-で学んだ内容を整理した学習ログです。
+このリポジトリでは、講座の章ごとに学習ログをまとめています。  
+エディタで書いたコードと、ターミナルで実行したログを整理して記録しています。
 
-## 📂 構成
-- basics/ : Python基礎（変数・演算子・制御構文）
-- 
-- 
-- 
+---
+
+## 章一覧
+
+- [Chapter 1: Python基礎](logs/chapter01_basics.md)
+- [Chapter 2: 文字列操作](logs/chapter02_strings.md)
+- [Chapter 3: フォーマット方法](logs/chapter03_formatting.md)
+- [Chapter 4: 制御構文](logs/chapter04_control.md)
+- [Chapter 5: 関数とモジュール](logs/chapter05_functions.md)
+
+---
+
+## 使い方
+- 各章のリンクをクリックすると、詳細な学習ログ（コード例・ターミナル実行例・学びのポイント）が見られます。
+- `src/` フォルダには、エディタで書いた `.py` ファイルを保存しています。
+- `logs/` フォルダには、ターミナル実行ログを Markdown 形式で保存しています。
 
 ## 💻 環境
 - Python 3.13.5 (Anaconda)
