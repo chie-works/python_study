@@ -1,18 +1,18 @@
 # Python 学習ログ
 
 このリポジトリでは、講座の章ごとに学習ログをまとめています。  
-エディタで書いたコードと、ターミナルで実行したログを整理して記録しています。
+ターミナルで実行したログと、エディタで書いたコードを整理して記録しています。
 
 ---
 
 ## 章一覧
 
-- [Chapter 1: Python基礎 (ログ)](logs/basic.md)  
-- [Chapter 1: Python基礎 (コード)](src/basic.py)
-
 - Chapter 1: Python基礎  
-  - [ログ](logs/basic.md)  
-  - [コード](src/basic.py)
+  - [ターミナルログ](logs/basic.md)  
+  - [エディタコード](src/basic.py)
+- Chapter ２: データ構造  
+  - [ターミナルログ](logs/data_structures.md)  
+  - [エディタコード](src/data_structures.py)
 
 
 ---
