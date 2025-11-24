@@ -5,9 +5,9 @@
 
 ---
 #### 手順1： GitHubからリポジトリURLを取得
-- **対象リポジトリ:** `chie-works/python_study`
-- **操作:** 「Code」ボタン → 「HTTPS」タブ → URLをコピー
-- **コピーしたURL:** https://github.com/chie-works/python_study.git
+- 対象リポジトリ: `chie-works/python_study`
+- 操作: 「Code」ボタン → 「HTTPS」タブ → URLをコピー
+- コピーしたURL: https://github.com/chie-works/python_study.git
 
 #### 手順2： Git Bashでローカルにクローン
 ```bash
