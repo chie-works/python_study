@@ -1,6 +1,6 @@
 ## 23. タプルの使い所
 #### 📝 VSCodeで実行
-div align="right">
+<div align="right">
   <a href="../README.md#23-タプルの使い所">READMEに戻る</a>
 </div>
 
