@@ -41,9 +41,6 @@ print(type(a))      # <class 'dict'>
 print(a)            # {} → 空の辞書を表す
 ```
 
-## 📝 学習のまとめ
-- 
-
 <div align="right">
   <a href="../README.md#29-集合型のメソッド">READMEに戻る</a>
 </div>
