@@ -9,17 +9,21 @@
 - フォルダ: section04
 - ファイル: section03_code.py
 ---
+#### 手順1： ローカルの状態を確認
+```bash
+# 未コミットの変更があるかどうかを確認
+$ git status
 
-#### 手順1： リポジトリのルートへ移動
-```bash
-cd section04
-$ dir
+# 結果: 未コミットの変更は一切なく、作業ツリーはクリーン
+# 意味: ローカルの main ブランチはリモートと同期済みで最新状態
+On branch main
+Your branch is up to date with 'origin/main'.
+nothing to commit, working tree clean
 ```
-#### 手順2： ファイルを削除してステージング
+#### 手順2： ローカルを最新化
 ```bash
-git rm section04/section03_code.py
+git pull origin main
 ```
-※もし単純に削除した場合は rm section04/section03_code.py → git add -u でステージング。
 #### 手順3： コミット
 ```bash
 git commit -m "Remove section03_code.py from section04"
