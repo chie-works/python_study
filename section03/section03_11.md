@@ -1,7 +1,7 @@
 ## 11. 文字列
 #### 📝 VSCodeで実行
 <div align="right">
-  <a href="../README.md">READMEへ戻る</a>
+  <a href="../README.md#11-文字列">READMEに戻る</a>
 </div>
 
 ```bash
@@ -38,5 +38,5 @@ ss = 'aaaaaaaaaaaaaaaaaaaaaaaa' \
 print(s)
 ```
 <div align="right">
-  <a href="../README.md">READMEへ戻る</a>
+  <a href="../README.md#11-文字列">READMEに戻る</a>
 </div>
