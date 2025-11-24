@@ -1,6 +1,9 @@
-## 💻 ターミナルで実行
-[READMEへ戻る](../README.md)
-### 15. f-strings
+## 15. f-strings
+#### ターミナルで実行
+<div align="right">
+  <a href="../README.md">READMEへ戻る</a>
+</div>
+
 ```bash
 # f-strings
 >>> a = 'a'
@@ -13,4 +16,6 @@
 ## 📝 学習のまとめ
 - Python 3.6よりf-stringsが使用できるように  
 
-[READMEへ戻る](../README.md)
+<div align="right">
+  <a href="../README.md">READMEへ戻る</a>
+</div>
