@@ -1,6 +1,6 @@
 ## Pythonにおける (), [], {} の使い分け
 <div align="right">
-  <a href="../README.md#-Pythonにおける (), [], {} の使い分け">READMEに戻る</a>
+  <a href="../README.md#pythonにおける---の使い分け">READMEに戻る</a>
 </div>
 
 ---
