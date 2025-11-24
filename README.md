@@ -56,4 +56,9 @@
 ## 💻 環境
 - 🐍 Python 3.13.5 (Anaconda)  
 - 🖊️ Visual Studio Code  
-- 🖥️ Windows 11 (64bit)  
+- 🖥️ Windows 11 (64bit)
+
+## その他
+##### [　　Pythonにおける (), [], {} の使い分け](docs/python_brackets_usage.md) 
+##### [　　markdown](docs/markdown_cheatsheet.md) 
+
