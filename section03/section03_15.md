@@ -11,5 +11,5 @@
 'a is 1, 2, 3'
 ```
 ## 📝 学習のまとめ
-- Python 3.6よりf-stringsが使用できるように
+- Python 3.6よりf-stringsが使用できるように  
 [READMEへ戻る](../README.md)
