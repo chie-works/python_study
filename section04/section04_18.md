@@ -26,9 +26,6 @@ r.sort()
 print(r)               # 出力: [1, 1, 2, 2, 3, 3, 4, 5]
 
 ```
-## 📝 学習のまとめ
-- 
-
 <div align="right">
   <a href="../README.md">READMEへ戻る</a>
 </div>
