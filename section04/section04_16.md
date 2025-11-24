@@ -1,5 +1,9 @@
-## 💻 ターミナルで実行
-### 16. リスト型
+## 16. リスト型
+#### 💻 ターミナルで実行
+<div align="right">
+  <a href="../README.md">READMEへ戻る</a>
+</div>
+
 ```bash
 # リスト
 >>> l = [1,4,7,8,29,36]
@@ -58,3 +62,6 @@
 >>> x[1][2]
 3
 ```
+<div align="right">
+  <a href="../README.md">READMEへ戻る</a>
+</div>
