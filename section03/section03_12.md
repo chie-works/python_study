@@ -1,4 +1,5 @@
 ## 💻 VSCodeで実行
+[READMEへ戻る](../README.md)
 ### 12. 文字列のインデックスとスライス
 ```bash
 # --- インデックスとスライス ---
@@ -17,3 +18,4 @@ print(word[:])     # 全体をスライス → 'jython'
 
 print(len(word))   # 文字列の長さ → 6
 ```
+[READMEへ戻る](../README.md)
