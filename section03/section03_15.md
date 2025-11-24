@@ -1,5 +1,5 @@
 ## 15. f-strings
-#### ターミナルで実行
+#### 💻 ターミナルで実行
 <div align="right">
   <a href="../README.md">READMEへ戻る</a>
 </div>
