@@ -37,7 +37,7 @@
 #### [　　26. 辞書のコピー](section04/section04_26.md) 
 #### [　　27. 辞書の使い所](section04/section04_27.md) 
 #### [　　28. 集合型](section04/section04_28.md) 
-#### [　　29  集合型のメソッド](section04/section04_29.md) 
+#### [　　29. 集合型のメソッド](section04/section04_29.md) 
 #### [　　30. 集合型の使い所](section04/section04_30.md) 
 
 
