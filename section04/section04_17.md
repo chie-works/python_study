@@ -1,6 +1,10 @@
-## 💻 ターミナルで実行
-### 17. リストの操作
-```
+## 17. リストの操作
+#### 💻 ターミナルで実行
+<div align="right">
+  <a href="../README.md">READMEへ戻る</a>
+</div>
+
+```bash
 # 配列
 >>> s = ['a', 'b', 'c', 'd', 'e', 'f', 'g']   
 >>> s
@@ -71,5 +75,7 @@
 >>> x.extend(y)
 >>> x
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
 ```
+<div align="right">
+  <a href="../README.md">READMEへ戻る</a>
+</div>
