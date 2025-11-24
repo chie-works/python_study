@@ -43,9 +43,6 @@ a, b = b, a            # 一時変数なしで入れ替え可能
 print(a, b)            # 200 100
 ```
 
-## 📝 学習のまとめ
-- 
-
 <div align="right">
   <a href="../README.md#22-タプルのアンパッキング">READMEに戻る</a>
 </div>
