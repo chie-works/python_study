@@ -14,15 +14,15 @@
 ## 📂 章一覧
 
 ### 📘 Section 3： Python基礎
-- 🗒️ 14. 文字の代入(section03/section03_14.md)  
-- 🗒️ 15. f-strings(section03/section03_15.md)  
+- 🗒️ [14. 文字の代入](section03/section03_14.md)  
+- 🗒️ [15. f-strings](section03/section03_15.md)  
 
 **学習テーマ**: 変数・演算子・制御構文  
 **成果**: 基本的な構文を理解し、簡単な計算プログラムを作成
 
 ### 📗 Section 2： データ構造
-- 🗒️ 16. リスト型(section04/section04_16.md)  
-- 🗒️ 17. リストの操作(section04/section04_17.md)
+- 🗒️ [16. リスト型](section04/section04_16.md)  
+- 🗒️ [17. リストの操作](section04/section04_17.md)
 - 
 
 
