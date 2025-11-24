@@ -1,4 +1,5 @@
 ## 💻 VSCodeで実行
+[READMEへ戻る](../README.md)
 ### 13. 文字のメソッド
 ```bash
 # --- 文字列メソッド ---
@@ -21,3 +22,4 @@ print(s.upper())                # 全て大文字 → 'MY NAME IS MIKE. HI MIKE.
 print(s.lower())                # 全て小文字 → 'my name is mike. hi mike.'
 print(s.replace('Mike','Nancy'))# 'Mike' を 'Nancy' に置換
 ```
+[READMEへ戻る](../README.md)
