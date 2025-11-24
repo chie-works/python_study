@@ -21,7 +21,7 @@ cd chie-works
 ```bash
 git rm section04/section03_code.py
 ```
-- ※もし単純に削除した場合は rm section04/section03_code.py → git add -u でステージング。
+※もし単純に削除した場合は rm section04/section03_code.py → git add -u でステージング。
 #### 3. コミット
 ```bash
 git commit -m "Remove section03_code.py from section04"
