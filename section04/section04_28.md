@@ -2,7 +2,7 @@
 #### 📝 VSCodeで実行
 #### 💻 ターミナルで実行
 <div align="right">
-  <a href="../README.md#28-集合型">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
@@ -33,7 +33,7 @@ print(a ^ b)    # {1, 4, 5, 7}
 ```
 
 <div align="right">
-  <a href="../README.md#28-集合型">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
