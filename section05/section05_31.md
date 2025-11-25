@@ -1,19 +1,26 @@
-
-## 11. 文字列
+## 31. コメント
 #### 📝 VSCodeで実行
-#### 💻 ターミナルで実行
 <div align="right">
-  <a href="../README.md#11-文字列">READMEに戻る</a>
+  <a href="../README.md#section5">READMEに戻る</a>
 </div>
 
-
 ```bash
+# 1行コメントの例
+print('AAAAA')
+# test
+print('BBBBB')
 
+# 複数行コメント（docstring形式）
+print('CCCCC')
+"""
+test
+test
+test
+test
+"""
+print('DDDDD')
 ```
 
-## 📝 学習のまとめ
-- 
-
 <div align="right">
-  <a href="../README.md#11-文字列">READMEに戻る</a>
+  <a href="../README.md#section5">READMEに戻る</a>
 </div>
