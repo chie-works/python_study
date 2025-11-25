@@ -1,7 +1,7 @@
 ## 24. 辞書型
 #### 💻 ターミナルで実行
 <div align="right">
-  <a href="../README.md#24-辞書型">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
@@ -65,7 +65,7 @@ d = {**d1, **d2}   # 展開して結合
 ```
 
 <div align="right">
-  <a href="../README.md#24-辞書型">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
