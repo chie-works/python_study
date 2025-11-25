@@ -1,7 +1,7 @@
 ## 27. 辞書型の使い所
 #### 📝 VSCodeで実行
 <div align="right">
-  <a href="../README.md#27-辞書型の使い所">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
@@ -36,7 +36,7 @@ print(l[0][1])    # 100
 ```
 
 <div align="right">
-  <a href="../README.md#27-辞書型の使い所">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
