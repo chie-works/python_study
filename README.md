@@ -21,18 +21,11 @@
 #####  [　　13. 文字のメソッド](section03/section03_13.md)  
 #####  [　　14. 文字の代入](section03/section03_14.md)  
 #####  [　　15. f-strings](section03/section03_15.md)  
-
 </details>
 
-
-### 📝  Section 3： Python基礎
-#####  [　　11. 文字列](section03/section03_11.md)  
-#####  [　　12. 文字列のインデックスとスライス](section03/section03_12.md)  
-#####  [　　13. 文字のメソッド](section03/section03_13.md)  
-#####  [　　14. 文字の代入](section03/section03_14.md)  
-#####  [　　15. f-strings](section03/section03_15.md)  
-
-### 📝  Section 4： データ構造
+<details>
+<summary>📝  Section 4： データ構造</summary>
+ 
 ##### [　　16. リスト型](section04/section04_16.md)  
 ##### [　　17. リストの操作](section04/section04_17.md) 
 ##### [　　18. リストのメソッド](section04/section04_18.md) 
@@ -48,8 +41,11 @@
 ##### [　　28. 集合型](section04/section04_28.md) 
 ##### [　　29. 集合型のメソッド](section04/section04_29.md) 
 ##### [　　30. 集合型の使い所](section04/section04_30.md) 
+</details>
 
-### 📝  Section 5： 制御フローとコード構造
+<details>
+<summary>📝  Section 5： 制御フローとコード構造</summary>
+ 
 ##### [　　31. コメント](section05/section05_31.md)  
 ##### [　　32. 1行が長くなる時](section05/section05_32.md)  
 ##### [　　33. If文](section05/section05_33.md)  
@@ -86,59 +82,87 @@
 ##### [　　64. 名前空間とスコープ](section05/section05_64.md)  
 ##### [　　65. 例外処理](section05/section05_65.md)  
 ##### [　　66. 独自例外の作成](section05/section05_66.md)  
+</details>
 
-
-### 📝  Section 6： モジュールとパッケージ
-
-
-### 📝  Section 7： オブジェクトとクラス
-
-
-### 📝  Section 8： ファイル操作とシステム
-
-
-### 📝  Section 9： 演習
-
-
-### 📝  Section 10： コードスタイル
-
-
-### 📝  Section 11： コンフィグとロギング
-
-
-### 📝  Section 12： データベース
-
-
-### 📝  Section 13： WEBとネットワーク
-
-
-### 📝  Section 14： テスト
-
-
-### 📝  Section 15： 並列化
-
-
-### 📝  Section 16： 暗号化
-
-
-### 📝  Section 17： インフラ構築自動化
-
-
-### 📝  Section 18： Pythonの便利なライブラリ、ツール、豆知識
-
-
-### 📝  Section 19： グラフィックス
-
-
-### 📝  Section 20： データ更新
-
-
-### 📝  Section 21： キューイングシステム
-
-
-### 📝  Section 22： 非同期処理　asynico
-
+<details>
+<summary>📝  Section 6： モジュールとパッケージ</summary>
  
+</details>
+
+<details>
+<summary>📝  Section 8： ファイル操作とシステム</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 9： 演習</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 10： コードスタイル</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 11： コンフィグとロギング</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 12： データベース</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 13： WEBとネットワーク</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 14： テスト</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 15： 並列化</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 16： 暗号化</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 17： インフラ構築自動化</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 18： Pythonの便利なライブラリ、ツール、豆知識</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 19： グラフィックス</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 20： データ更新</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 21： キューイングシステム</summary>
+ 
+</details>
+
+<details>
+<summary>📝  Section 22： 非同期処理　asynico</summary>
+
+</details>
 
 ---
 
