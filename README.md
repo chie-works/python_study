@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 目的
+## 目的
 - 学習の進捗管理  
 - ポートフォリオとして活用  
 
@@ -177,10 +177,10 @@
 
 ---
 
-## 💻 環境
-- 🐍 Python 3.13.5 (Anaconda)  
-- 🖊️ Visual Studio Code  
-- 🖥️ Windows 11 (64bit)
+##  環境
+-  Python 3.13.5 (Anaconda)  
+-  Visual Studio Code  
+-  Windows 11 (64bit)
 
 ## その他
 ##### [　　Pythonにおける (), [], {} の使い分け](docs/python_brackets_usage.md) 
