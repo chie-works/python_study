@@ -1,7 +1,7 @@
 ## 25. 辞書型のメソッド
 #### 💻 ターミナルで実行
 <div align="right">
-  <a href="../README.md#25-辞書型のメソッド">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
@@ -61,7 +61,7 @@ d = {'x':100 ,'y':200}
 ```
 
 <div align="right">
-  <a href="../README.md#25-辞書型のメソッド">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
