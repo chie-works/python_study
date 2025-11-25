@@ -1,7 +1,7 @@
 ## 19. リストのコピー
 #### 📝 VSCodeで実行
 <div align="right">
-  <a href="../README.md#19-リストのコピー">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
 
@@ -52,5 +52,5 @@ j = copy.deepcopy(i) # ネストしたリストまで完全コピー
 ```
 - 
 <div align="right">
-  <a href="../README.md#19-リストのコピー">READMEに戻る</a>
+  <a href="../README.md#section4">READMEに戻る</a>
 </div>
