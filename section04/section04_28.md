@@ -4,8 +4,7 @@
   <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
-
-```bash
+```python
 # 集合を作成。重複した要素は自動的に取り除かれる
 a = {1, 2, 2, 3, 4, 4, 5, 6}
 print(a)        # {1, 2, 3, 4, 5, 6}
