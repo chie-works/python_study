@@ -5,14 +5,13 @@
 </div>
 
 ```bash
-# while 条件で終了する基本パターン
+# 基本パターン
 count = 0
 while count < 5:
     print(count)
     count += 1
 
-
-# 無限ループを break/continue で制御するパターン
+# break/continue で制御するパターン
 count = 0
 while True:
     if count >= 5:
