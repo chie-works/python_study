@@ -36,7 +36,7 @@ for _ in range(10):
 ```python
 for _ in range(10):
     print('Hello')
-```p
+```
 
 <div align="right">
   <a href="../README.md#section5">READMEに戻る</a>
