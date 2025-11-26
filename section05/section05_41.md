@@ -1,4 +1,4 @@
-## . 
+## 41. input関数
 #### 📝 VSCodeで実行
 #### 💻 ターミナルで実行
 <div align="right">
