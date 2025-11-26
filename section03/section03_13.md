@@ -4,7 +4,7 @@
   <a href="../README.md#section3">READMEに戻る</a>
 </div>
 
-```bash
+```python
 # --- 文字列メソッド ---
 s = 'My name is Mike. Hi Mike.'
 print(s)
