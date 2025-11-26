@@ -1,11 +1,10 @@
 ## 41. input関数
 #### 📝 VSCodeで実行
-#### 💻 ターミナルで実行
 <div align="right">
   <a href="../README.md#section5">READMEに戻る</a>
 </div>
 
-```bash
+```python
 # 入力が 'OK' になるまで繰り返す
 while True:
     word = input('Enter:')
@@ -35,7 +34,7 @@ print("こんにちは,", name)
 # 数値入力（型変換）
 age = int(input("年齢を入力してください: "))
 print("来年は", age + 1, "歳ですね")
-
+```
 <div align="right">
   <a href="../README.md#section5">READMEに戻る</a>
 </div>
