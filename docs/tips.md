@@ -11,7 +11,10 @@
 ---
 
 ## 目次
-- [type() と help() の使い分け](#-🗂️-type-と-help-の使い分け)
+
+- [type() と help() の使い分け](#type-と-help-の使い分け)
+
+- [type() と help() の使い分け](#type-と-help-の使い分け)
 - [is not と != の使い分け](#is-not-と--の使い分け)
 - [VSCodeの全画面表示解除](#vscodeの全画面表示解除)
 
