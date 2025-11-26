@@ -4,7 +4,7 @@
   <a href="../README.md#section5">READMEに戻る</a>
 </div>
 
-```bash
+```python
 # while 条件が偽になった後に else が実行される例
 count = 0
 
