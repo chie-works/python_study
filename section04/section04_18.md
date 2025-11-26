@@ -4,7 +4,7 @@
   <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
-```bash
+```python
 # リストを作成
 r = [1,2,3,4,5,1,2,3]
 
