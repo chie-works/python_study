@@ -4,7 +4,7 @@
   <a href="../README.md#section5">READMEに戻る</a>
 </div>
 
-```bash
+```python
 # 文字列を + 演算子で連結
 s = 'aaaaaaaaaaaaa' + 'bbbbbbbbbbbbbbbbbb'
 print(s)  # → 'aaaaaaaaaaaaabbbbbbbbbbbbbbbbbb'
