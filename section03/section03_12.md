@@ -4,7 +4,7 @@
   <a href="../README.md#section3">READMEに戻る</a>
 </div>
 
-```bash
+```python
 # --- インデックスとスライス ---
 word = 'python'
 print(word[3])     # インデックス3 → 'h'
