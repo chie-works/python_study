@@ -4,8 +4,7 @@
   <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
-
-```bash
+```python
 # 自分の友達の集合
 my_frienda = {'A', 'B', 'C'}
 
