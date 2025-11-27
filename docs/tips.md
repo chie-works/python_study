@@ -40,6 +40,7 @@
 <div align="right">
   <a href="#python補足メモ">🔼 TOPに戻る</a>
 </div>
+
 **辞書 (dict)**
 ```
 - `{キー: 値}` で表記
