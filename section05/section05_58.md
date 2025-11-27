@@ -1,7 +1,7 @@
 ## 58. ラムダ
 #### 🖥 VSCodeで実行
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
 ```python
@@ -62,13 +62,8 @@ print(data)  # → [('banana', 1), ('cherry', 2), ('apple', 3)]
 print((lambda x, y: x + y)(10, 20))  # → 30
 ```
 
-
-
-
-
-
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
 
