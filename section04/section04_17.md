@@ -1,7 +1,7 @@
 ## 17. リストの操作
 #### 💻 ターミナルで実行
 <div align="right">
-  <a href="../README.md#section4">READMEに戻る</a>
+  <a href="../README.md#section4">◀️READMEに戻る</a>
 </div>
 
 ```bash
@@ -77,5 +77,5 @@
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 <div align="right">
-  <a href="../README.md#section4">READMEに戻る</a>
+  <a href="../README.md#section4">◀️READMEに戻る</a>
 </div>
