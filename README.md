@@ -83,7 +83,7 @@
 - [55. 関数内関数](section05/section05_55.md)  
 - [56. クロージャ―](section05/section05_56.md)  
 - [57. デコレーター](section05/section05_57.md)  
-- [58. ラムダ](section05/section05_581.md)  
+- [58. ラムダ](section05/section05_58.md)  
 - [59. ジェネレーター](section05/section05_59.md)  
 - [60. リスト内包表記](section05/section05_60.md)  
 - [61. 辞書包括表記](section05/section05_61.md)  
