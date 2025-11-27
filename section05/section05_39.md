@@ -1,7 +1,7 @@
 ## 39. while文とcontinue文とbreak文
 #### 🖥 VSCodeで実行
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
 ```python
@@ -22,7 +22,3 @@ while True:
     print(count)
     count += 1
 ```
-
-<div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
-</div>
