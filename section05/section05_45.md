@@ -26,11 +26,12 @@ fruits = ["apple", "banana", "cherry"]
 
 for i, v in enumerate(fruits, start=1):
     print(i, v)
+
+# 出力:
+# 1 apple
+# 2 banana
+# 3 cherry
 ```
-出力:
-1 apple
-2 banana
-3 cherry
 
 <div align="right">
   <a href="../README.md#section5">◀️READMEに戻る</a>
