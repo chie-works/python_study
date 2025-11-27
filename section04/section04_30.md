@@ -20,8 +20,3 @@ kind = set(f)
 print(kind)  # {'apple', 'banana'}
 ```
 
-<div align="right">
-  <a href="../README.md#section4">◀️READMEに戻る</a>
-</div>
-
-
