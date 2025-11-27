@@ -1,7 +1,7 @@
 ## 40. while else文
 #### 🖥 VSCodeで実行
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
 ```python
@@ -17,6 +17,3 @@ else:
     print('done')  # ループが正常終了したときに実行
 ```
 
-<div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
-</div>
