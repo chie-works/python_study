@@ -46,20 +46,22 @@ print(f(5))  # → 10
 - 戻り値は式の結果（return は不要）
 
 3. よく使う場面  
-**関数を引数に渡すとき**
+
 ```python
+# 関数を引数に渡すとき
 l = ["Mon", "tue", "Wed"]
 print(list(map(lambda w: w.lower(), l)))
 # → ['mon', 'tue', 'wed']
 ```
-**ソートのキー指定**
 ```python
+# ソートのキー指定
 data = [("apple", 3), ("banana", 1), ("cherry", 2)]
 data.sort(key=lambda x: x[1])
 print(data)  # → [('banana', 1), ('cherry', 2), ('apple', 3)]
 ```
-**簡単な関数を一時的に使いたいとき**
+
 ```python
+# 簡単な関数を一時的に使いたいとき
 print((lambda x, y: x + y)(10, 20))  # → 30
 ```
 
