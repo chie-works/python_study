@@ -1,7 +1,7 @@
 ## 50. 位置引数とキーワード引数とデフォルト引数
 #### 🖥 VSCodeで実行
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
 ```python
@@ -40,5 +40,5 @@ menu2(entree='pizza', drink='beer', dessert='ice')  # 指定すれば上書き�
 ```
 
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
