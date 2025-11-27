@@ -4,7 +4,6 @@
   <a href="../README.md#section4">READMEに戻る</a>
 </div>
 
-
 ```bash
 # 辞書の作成
 d = {'x':10 ,'y':20}
@@ -57,6 +56,16 @@ d = {'x':100 ,'y':200}
 'a' in d                # False
 'x' in d                # True
 ```
+
+## 学習のまとめ（辞書の値取得）
+- d['x']
+- キーが無いと KeyError
+- キーが必ず存在する前提で使う
+- d.get('x')
+- キーが無くてもエラーにならない
+- デフォルト値を返せる（例：d.get('x', 0))
+- 無い可能性があるキーを扱うときに便利
+
 
 <div align="right">
   <a href="../README.md#section4">READMEに戻る</a>
