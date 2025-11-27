@@ -5,15 +5,11 @@
 </div>
 
 ```python
-# 自分の友達の集合
 my_frienda = {'A', 'B', 'C'}
-
-# Aさんの友達の集合
 A_frienda = {'B', 'D', 'E', 'F'}
 
-# 共通部分（積集合）を求める → 両方にいる友達
+# 共通部分（積集合）を求める
 print(my_frienda & A_frienda)  # {'B'}
-
 
 # リストを作成（同じ要素が重複している）
 f = ['apple', 'banana', 'apple', 'banana']
