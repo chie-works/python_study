@@ -16,6 +16,3 @@
 ## 📝 学習のまとめ
 - Python 3.6よりf-stringsが使用できるように  
 
-<div align="right">
-  <a href="../README.md#section3">◀️READMEに戻る</a>
-</div>
