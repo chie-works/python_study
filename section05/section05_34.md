@@ -1,8 +1,7 @@
 ## 34. デバッガーを使って確認
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
-
 ---
 
 ## ✨ VSCode デバッガ使い方 まとめ
@@ -44,5 +43,5 @@
 - ホバー表示 → コード上で即座に値を確認
 
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
