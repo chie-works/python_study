@@ -70,6 +70,7 @@ print(next(g))   # StopIteration発生（要素が尽きる）
 ## ✨ 学習のまとめ
 - ジェネレーターは「逐次的に値を返す関数」
 - 関数内で値を返すのに return ではなく yield を使用  
+
 **基本構文**
 ```ptrhon
 def count_up_to(n):
