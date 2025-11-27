@@ -1,7 +1,7 @@
 ## 28. 集合型
 #### 🖥 VSCodeで実行
 <div align="right">
-  <a href="../README.md#section4">READMEに戻る</a>
+  <a href="../README.md#section4">◀️READMEに戻る</a>
 </div>
 
 ```python
@@ -31,7 +31,7 @@ print(a ^ b)    # {1, 4, 5, 7}
 ```
 
 <div align="right">
-  <a href="../README.md#section4">READMEに戻る</a>
+  <a href="../README.md#section4">◀️READMEに戻る</a>
 </div>
 
 
