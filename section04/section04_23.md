@@ -1,5 +1,5 @@
 ## 23. タプルの使い所
-#### 📝 VSCodeで実行
+#### 🖥 VSCodeで実行
 <div align="right">
   <a href="../README.md#section4">READMEに戻る</a>
 </div>
@@ -23,7 +23,7 @@ print(chose_from_two)   # ('A', 'B', 'C') → タプルのまま
 print(answer)           # ['A', 'c'] → リストに追加された結果
 ```
 
-## 📝 学習のまとめ
+## ✨ 学習のまとめ
 - 要素を後から変更したくないときに使う
 - データを固定して安全に保持したい場面に適している
 
