@@ -30,7 +30,8 @@ print(r)   # [2, 4]
 # リスト内包表記
 r = [i for i in t if i % 2 == 0]
 print(r)   # [2, 4]
-``````python
+```
+```python
 r = []
 for i in t:
     for j in t2:
