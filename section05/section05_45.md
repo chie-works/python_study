@@ -1,7 +1,7 @@
 ## 45. enumerate関数
 #### 🖥 VSCodeで実行
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
 ```python
@@ -14,7 +14,7 @@ for fruit in ['apple', 'banana', 'orange']:
 for i, fruit in enumerate(['apple', 'banana', 'orange']):
     print(i, fruit)
 ```
-## 📝 学習のまとめ
+## ✨ 学習のまとめ
 - `enumerate` は要素とインデックスを同時に取得できる
 - 構文: `enumerate(iterable, start=0)`
 - `start` で開始番号を指定可能（デフォルトは 0）
@@ -33,5 +33,5 @@ for i, v in enumerate(fruits, start=1):
 3 cherry
 
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
