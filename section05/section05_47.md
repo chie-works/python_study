@@ -1,7 +1,7 @@
 ## 47. 辞書をfor文で処理する
 #### 🖥 VSCodeで実行
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
 ```python
@@ -27,5 +27,5 @@ print(d.items())
 
 
 <div align="right">
-  <a href="../README.md#section5">READMEに戻る</a>
+  <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
