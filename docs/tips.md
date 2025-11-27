@@ -37,7 +37,9 @@
 - 順序あり / 重複可 / 変更不可 (immutable)
 - 例: `tpl = (1, 2, 3)`
 ```
-
+<div align="right">
+  <a href="#python補足メモ">🔼 TOPに戻る</a>
+</div>
 **辞書 (dict)**
 ```
 - `{キー: 値}` で表記
