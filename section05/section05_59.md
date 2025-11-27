@@ -82,9 +82,6 @@ def count_up_to(n):
 for x in count_up_to(5):
     print(x)  # 1 2 3 4 5
 ``` 
-- 停止と再開: yield 到達で関数状態（ローカル変数・実行位置）を保持したまま停止し、次の反復で続きから再開
-- 遅延評価: 必要なときにだけ次の値を生成。巨大リストを作らずメモリを節約
-- イテラブル: ジェネレーターはイテレータ（iter と next を持つ）として扱える
 
 <div align="right">
   <a href="../README.md#section5">READMEに戻る</a>
