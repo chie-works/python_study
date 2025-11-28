@@ -98,7 +98,18 @@
 
 <details>
 <summary id="section6">📝  Section 6： モジュールとパッケージ 🔽</summary>
- 
+
+ - [67. コマンドライン引数](section06/section06_67.md)  
+ - [68. Import文とAS](section06/section06_68.md)  
+ - [69. 絶対パスと相対パスのImport](section06/section06_69.md)  
+ - [70. アスタリスクのImportと__init__.pyと__all__の意味](section06/section06_70.md)  
+ - [71. ImportErrorの使い所](section06/section06_71.md)  
+ - [72. setup.pyでパッケージ化して配布する](section06/section06_72.md)  
+ - [73. 組み込み関数](section06/section06_73.md)  
+ - [74. 標準ライブラリ](section06/section06_74.md)  
+ - [75. サードパーティのライブラリ](section06/section06_75.md)  
+ - [76. Importする際の記述の仕方](section06/section06_76.md)  
+ - [77. `__nameと__main__`](section06/section06_77.md)  
 </details>
 
 <details>
