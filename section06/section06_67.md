@@ -49,7 +49,7 @@ arg2
 ```
 
 
-**ターミナルからの実行コマンド**
+**ターミナルから引数を指定し実行した場合**
 ```bach
 PS C:\Users\XXXX\Desktop\Python\Udemy> python section06.py option1 option2
 ```
