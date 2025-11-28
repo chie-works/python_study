@@ -4,6 +4,15 @@
   <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
+**パッケージ準備**
+- 📂 フォルダ構成
+```
+lesson_pakkege/         # パッケージフォルダ
+  ├── init.py           # パッケージ初期化ファイル
+  └── utils.py          # ユーティリティ関数を定義するモジュール
+section06.py            # メインの実行ファイル
+```
+
 **パッケージ全体をインポート**
 ```python
 import lesson_pakkege.utils
