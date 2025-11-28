@@ -7,13 +7,10 @@
 **フォルダ構成**
 ```python
 lesson_pakkege/             # パッケージフォルダ
-    ├── talk/               # サブパッケージ
-    │    ├── __init__.py
-    │    └── animal.py
-    │    └── human.py
-    └── tools/              # サブパッケージ
-        ├── __init__.py
-        └── utils.py
+    └── talk/               # サブパッケージ
+         ├── __init__.py
+         └── animal.py
+         └── human.py
 section06.py                # メインの実行ファイル
 ```
 **__init__.pyの中身**
@@ -34,9 +31,6 @@ print(animal.cry())
 print(human.sing())
 print(human.cry())
 ```
-
-## ✨ 学習のまとめ
-- 
 
 <div align="right">
   <a href="../README.md#section5">◀️READMEに戻る<a>
