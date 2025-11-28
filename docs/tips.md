@@ -37,7 +37,6 @@
 - 例: tpl = (1, 2, 3)
 - ポイント: 不変なので「固定データ」や「辞書のキー」に適する
 ```
-<div align="right"><a href="#python補足メモ">🔼 TOPに戻る</a></div>
 
 **辞書 (dict)： `{キー: 値}`**
 ```
@@ -45,7 +44,6 @@
 - 例: d = {'a': 1, 'b': 2}
 - ポイント: キーで高速アクセス、構造化データに便利
 ```
-<div align="right"><a href="#python補足メモ">🔼 TOPに戻る</a></div>
 
 **集合 (set)：{}` または `set()`**
 ```
@@ -53,14 +51,12 @@
 - 例: s = {1, 2, 3}
 - ポイント: 重複排除・和差積など集合演算に強い
 ```
-<div align="right"><a href="#python補足メモ">🔼 TOPに戻る</a></div>
 
 ### type() と help() の使い分け
 ```
 - `type(obj)` → 型を返す（例: `<class 'NoneType'>`）：型を調べたいとき  
 - `help(obj)` → 型やオブジェクトのドキュメントを表示：詳しい説明やメソッド一覧を知りたいとき  
 ```
-<div align="right"><a href="#python補足メモ">🔼 TOPに戻る</a></div>
 
 ### is not と != の使い分け
 ```
@@ -69,7 +65,6 @@
 - `is not` → 同じオブジェクトではないかどうかを判定  
   例: `[] is not []` → True（別々に作られたリストなので同一オブジェクトではない）  
 ```
-<div align="right"><a href="#python補足メモ">🔼 TOPに戻る</a></div>
 
 ### VSCodeの全画面表示解除
 ```
@@ -82,7 +77,6 @@
 - `d['x']` → キーが無いと **KeyError**。キーが必ず存在する前提で使う  
 - `d.get('x')` → キーが無くてもエラーにならない。デフォルト値も指定できる（例：`d.get('x', 0)`）
 ```
-<div align="right"><a href="#python補足メモ">🔼 TOPに戻る</a></div>
 
 ### 各 内包表記
 ```
@@ -90,12 +84,10 @@
 - 集合内包表記：`{式 for 変数 in イテラブル if 条件}`
 - 辞書内包表記：`{キー: 値 for 変数 in イテラブル if 条件}`
 ```
-<div align="right"><a href="#python補足メモ">🔼 TOPに戻る</a></div>
+
 
 
 
 ---
-
-<div align="right">
-  <a href="../README.md#４-その他">◀️READMEに戻る</a>
-</div>
+<div align="right"><a href="#python補足メモ">🔼 TOPに戻る</a></div>
+<div align="right"><a href="../README.md#４-その他">◀️READMEに戻る</a></div>
