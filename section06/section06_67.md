@@ -36,6 +36,19 @@ for i in sys.argv:
     print(i)
 ```
 
+**デバッグコンソールの出力結果**
+```bash
+# sys.argv[0]：実行されたスクリプトのパス
+C:\Users\teruy\Desktop\Python\Udemy\section06.py
+
+# sys.argv[1]：1つ目の引数
+arg1
+
+# sys.argv[2]：2つ目の引数
+arg2
+```
+
+
 **ターミナルからの実行コマンド**
 ```bach
 PS C:\Users\XXXX\Desktop\Python\Udemy> python section06.py option1 option2
