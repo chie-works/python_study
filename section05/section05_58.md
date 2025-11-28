@@ -33,29 +33,30 @@ change_words(l, lambda word: word.lower())
 ```
 ## ✨ 学習のまとめ
 
-### 基本
-- ラムダ式 = 無名関数を簡潔に書く方法  
+- ラムダ式 = 無名関数を簡潔に書く方法
+- 名前を付けなくても関数を作れる
+- 1行で書ける（複雑な処理には不向き）
+- 戻り値は式の結果（return は不要）
 - 書式：`lambda 引数: 式`
 
 ```python
 f = lambda x: x * 2
 print(f(5))  # → 10
 ```
-2. 特徴
-- 名前を付けなくても関数を作れる
-- 1行で書ける（複雑な処理には不向き）
-- 戻り値は式の結果（return は不要）
 
-# 関数を引数に渡す
+**関数を引数に渡す**
+```python
 l = ["Mon", "tue", "Wed"]
 print(list(map(lambda w: w.lower(), l)))  # → ['mon', 'tue', 'wed']
-
-# ソートのキー指定
+```
+**ソートのキー指定**
+```python
 data = [("apple", 3), ("banana", 1), ("cherry", 2)]
 data.sort(key=lambda x: x[1])
 print(data)  # → [('banana', 1), ('cherry', 2), ('apple', 3)]
-
-# 一時的な関数
+```
+**一時的な関数**
+```python
 print((lambda x, y: x + y)(10, 20))  # → 30
 ```
 
