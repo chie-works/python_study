@@ -4,12 +4,49 @@
   <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
 
-```bash
-```python
 
+**パッケージフォルダ準備**
+```python
+lesson_pakkege/             # パッケージフォルダ
+    ├── talk/               # サブパッケージ
+    │    ├── init.py
+    │    └── human.py
+    └── tools/              # サブパッケージ
+        ├── init.py
+        └── utils.py
+section06.py                # メインの実行ファイル
 ```
-## ✨ 学習のまとめ
-- 
+**utils.py の中身**
+```python
+def say_twaice(word):
+    return (word + '!') * 2
+```
+**himan.py の中身**
+```python
+# 絶対パスの場合
+from lesson_pakkege.tools import utils
+
+# 相対パスの場合
+from ..tools import utils
+
+def sing():
+    return 'sing'
+
+def cry():
+    # tools.utils の say_twaice 関数を呼び出し
+    return utils.say_twaice('cry')
+```
+**section06.pyの中身**
+```Python
+from lesson_pakkege.talk import human
+
+print(human.sing())
+print(human.cry())
+# 出力
+# sing
+# cry!cry!
+```
+
 
 <div align="right">
   <a href="../README.md#section5">◀️READMEに戻る<a>
