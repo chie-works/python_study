@@ -23,7 +23,7 @@
 - VSCodeの「Run and Debug」で実行すると、` sys.argv ` に ` ["ファイル名", "arg1", "arg2"] `が入る
 - デバッグ環境専用の設定（ブレークポイントやステップ実行が可能）
 
-**Pythonコード例**
+**Pythonコード**
 ```python
 # Pythonの標準ライブラリsysをインポート（コマンドライン引数などを扱える）
 import sys
