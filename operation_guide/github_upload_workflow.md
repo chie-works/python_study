@@ -37,7 +37,7 @@ git push -u origin main   # ローカルの変更を GitHub にアップロー�
 - 公開状態` Public `の確認
 - 動作確認
 ```bash
-import mypackage   # または import mypackage_copy
+import mypackage
 print(mypackage.hello())          # → Hello, world!
 ```
 <div align="right"><a href="../README.md#4-手順">◀️ READMEに戻る</a></div>
