@@ -4,7 +4,7 @@
 再現できるように、手順とコマンドを一つのドキュメントにまとめます。
 
 ---
-<div align="right"><a href="../README.md#４. 手順">◀️READMEに戻る</a></div>
+<div align="right"><a href="../README.md#4-手順">◀️ READMEに戻る</a></div>
 
 #### 手順1： GitHubからリポジトリURLを取得
 - 対象リポジトリ: `chie-works/python_study`
@@ -54,5 +54,5 @@ python_study/
      ├─ section04_16.md
      └─ section04_17.md
 ```
-<div align="right"><a href="../README.md#４. 手順">◀️READMEに戻る</a></div>
+<div align="right"><a href="../README.md#4-手順">◀️ READMEに戻る</a></div>
 
