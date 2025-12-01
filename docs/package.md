@@ -117,6 +117,6 @@ pip uninstall mypackage -y
 ```
 
 <div align="right">
-  <a href="../README.md#section5">◀️READMEに戻る</a>
+  <a href="../README.md#その他">◀️READMEに戻る</a>
 </div>
 
