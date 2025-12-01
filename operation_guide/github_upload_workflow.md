@@ -2,7 +2,7 @@
 
 ---
 ### 1. GitHubでリポジトリを作成
-- ` New repository `作成：リポジトリ名 ` mypackage `
+- New repository作成：リポジトリ名 ` mypackage `
 - - 公開範囲を Public に設定
 
 
