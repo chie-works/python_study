@@ -18,7 +18,7 @@ setup(
     description='sample package'
 )
 ```
-- ' README.md ' を作成
+- ` README.md ` を作成
 - ` LISENCE ` を作成
 ```bash
 lesson_package_project/        ← プロジェクト全体のルートフォルダ（任意の名前）
