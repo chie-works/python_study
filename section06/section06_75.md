@@ -1,5 +1,5 @@
 ## 75. サードパーティのライブラリ
-#### 🖥 VSCodeで実行
+#### 🖥 VSCode / ターミナルで実行
 <div align="right">
   <a href="../README.md#section5">◀️READMEに戻る</a>
 </div>
