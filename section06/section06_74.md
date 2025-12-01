@@ -48,8 +48,6 @@ print(d)  # defaultdict(<class 'int'>, {'a': 3, 'b': 2, 'c': 5, 'd': 2, 'e': 1})
 # 特定のキーの値を参照
 print(d['b'])  # → 2
 ```
-## ✨ 学習のまとめ
-- 
 
 <div align="right">
   <a href="../README.md#section5">◀️READMEに戻る<a>
