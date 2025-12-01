@@ -196,7 +196,7 @@
 <div align="right"><a href="#top">🔼 TOPに戻る</a></div>
 
 ## 4. 手順
-- [Pythonパッケージ作成と動作確認手順](operation_guide/python_packageworkflow.md) 
+- [Pythonパッケージ作成と動作確認手順](operation_guide/python_package_workflow.md) 
 - [GitHubリポジトリからファイル削除](operation_guide/repository_file_delete.md) 
 - [GitHubリポジトリのクローンとフォルダ構成整理](operation_guide/repository_restructure.md) 
 
