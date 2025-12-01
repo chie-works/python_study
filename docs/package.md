@@ -40,7 +40,8 @@ setup(
     description="A simple demo package with hello()",  # 短い説明文
     license="MIT",                             # ライセンス種別
     long_description=open("README.md").read()  # PyPI公開時にREADMEが説明文に反映される
-)```
+)
+```
 
 ### 4. README.md と LICENSE の作成
 - README.md
