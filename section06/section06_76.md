@@ -27,13 +27,13 @@ print(config.__file__)
 ```
 ## ✨ 学習のまとめ
 - インポートの記述順
-  1. 標準ライブラリ
+  1. 標準ライブラリ  
      例: import os, import sys, import math
-  2. サードパーティライブラリ（pip install したもの）
+  2. サードパーティライブラリ（pip install したもの）  
      例: import numpy, import pandas, import termcolor
-  3. 自作モジュール
+  3. 自作モジュール  
      例: import mypackage
-  4. ローカルパッケージ
+  4. ローカルパッケージ  
      例: import config
 
 - 改行ルール
