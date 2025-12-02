@@ -1,7 +1,7 @@
 ## 75. サードパーティのライブラリ
 #### 🖥 VSCode / ターミナルで実行
 <div align="right">
-  <a href="../README.md#section5">◀️READMEに戻る</a>
+  <a href="../README.md#section6">◀️READMEに戻る</a>
 </div>
 
 **pypiにある関数をインストール**
