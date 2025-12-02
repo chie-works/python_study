@@ -37,9 +37,9 @@ person.say_something()
   →` obj = ClassName(...) `とした瞬間に` __init__ `が実行される  
   → 主な使い所は「インスタンス変数の初期化」「準備処理」
 
-**インスタンスのメソッド**：クラスの中で` def `で定義され、第一引数に` self `を取る
+**インスタンスメソッド**：クラスの中で` def `で定義され、第一引数に` self `を取る
 ```python
-class Person:
+class Person:                  # クラス
     def __init__(self, name):  # コンストラクタ
         self.name = name       # インスタンス変数
 
