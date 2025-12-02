@@ -114,19 +114,20 @@
 
 <details>
 <summary id="section7">📝  Section 7： オブジェクトとクラス 🔽</summary>
- - [78. `クラスの定義`](section07/section07_78.md)  
- - [79. `クラスの初期化とクラス変数`](section07/section07_79.md)  
- - [80. `コンストラクタとデストラクタ`](section07/section07_80.md)  
- - [81. `クラスの継承`](section07/section07_81.md)  
- - [82. `メソッドのオーバーライドとsuperによる親のメソッド呼び出し`](section07/section07_82.md)  
- - [83. `プロパティを使った属性の設定`](section07/section07_83.md)  
- - [84. `クラスを構造体として扱う時の注意点`](section07/section07_84.md)  
- - [85. `ダックタイピング`](section07/section07_85.md)  
- - [86. `抽象クラス`](section07/section07_86.md)  
- - [87. `多重継承`](section07/section07_87.md)  
- - [88. `クラス変数`](section07/section07_88.md)  
- - [89. `クラスメソッドとスタティックメソッド`](section07/section07_89.md)  
- - [90. `特殊メソッド`](section07/section07_90.md)  
+ 
+ - [78. クラスの定義](section07/section07_78.md)  
+ - [79. クラスの初期化とクラス変数](section07/section07_79.md)  
+ - [80. コンストラクタとデストラクタ](section07/section07_80.md)  
+ - [81. クラスの継承](section07/section07_81.md)  
+ - [82. メソッドのオーバーライドとsuperによる親のメソッド呼び出し](section07/section07_82.md)  
+ - [83. プロパティを使った属性の設定](section07/section07_83.md)  
+ - [84. クラスを構造体として扱う時の注意点](section07/section07_84.md)  
+ - [85. ダックタイピング](section07/section07_85.md)  
+ - [86. 抽象クラス](section07/section07_86.md)  
+ - [87. 多重継承](section07/section07_87.md)  
+ - [88. クラス変数](section07/section07_88.md)  
+ - [89. クラスメソッドとスタティックメソッド](section07/section07_89.md)  
+ - [90. 特殊メソッド](section07/section07_90.md)  
  
 </details>
 
