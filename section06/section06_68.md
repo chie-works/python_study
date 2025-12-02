@@ -43,23 +43,23 @@ r = u.say_twaice('Good morning')
 - `__init__.py` があることで Python に「ここはパッケージだ」と認識させる
 - importの基本形
 1. モジュール全体をインポート
+  - モジュール全体を読み込む
+  - 呼び出すときは モジュール名.関数名
 ```python
-# モジュール全体を読み込む
-# 呼び出すときは モジュール名.関数名
 import math
 print(math.sqrt(16))   # → 4.0
 ```
 2. モジュールに別名をつける
+  - 長い名前を短くできる
+  - 慣習的に numpy → np, pandas → pd など
 ```python
-# 長い名前を短くできる
-# 慣習的に numpy → np, pandas → pd など
 import numpy as np
 print(np.array([1, 2, 3]))
 ```
 3. 特定の関数やクラスだけをインポート
+  - 必要なものだけを直接使える
+  - 呼び出しがシンプルになる
 ```python
-# 必要なものだけを直接使える
-# 呼び出しがシンプルになる
 from math import sqrt
 print(sqrt(16))   # → 4.0
 ```
