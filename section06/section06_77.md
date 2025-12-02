@@ -5,13 +5,17 @@
 </div>
 
 **section06.py**
+```python
 if __name__ == '__main__':
     main()
+```
 section06.py を直接実行したときだけ main() が呼ばれる
 
 **hello.py**
+```python
 if __name__ == '__main__':
     print('mypackage:', __name__)
+```
 hello.py を直接実行したときだけ動く
 section06.py から import された場合は実行されない
 
