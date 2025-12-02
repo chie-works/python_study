@@ -1,7 +1,7 @@
 ## 67. コマンドライン引数
 #### 🖥 VSCode／ターミナル／lanch.jsonで実行
 <div align="right">
-  <a href="../README.md#section5">◀️READMEに戻る</a>
+  <a href="../README.md#section6">◀️READMEに戻る</a>
 </div>
 
 **` launch.json ` に ` args ` を追加してデバッグ実行**
@@ -77,6 +77,6 @@ PS C:\Users\XXXX\Desktop\Python\Udemy> python section06.py option1 option2
 - デバッグ機能は使えない
 
 <div align="right">
-  <a href="../README.md#section5">◀️READMEに戻る</a>
+  <a href="../README.md#section6">◀️READMEに戻る</a>
 </div>
   
