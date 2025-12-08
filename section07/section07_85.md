@@ -56,7 +56,7 @@ class Car(object):
         person.drive()
 ```
 
-# Car に Baby と Adult を渡してみる
+**Car に Baby と Adult を渡してみる**
 ```python
 car = Car()
 car.ride(baby)   # → baby.drive() が呼ばれる → 'NG' と表示
