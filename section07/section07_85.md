@@ -14,8 +14,6 @@ class Person(object):
         if self.age >= 18:
             print('OK')
         else:
-            # 本来は例外を投げるが、ここでは分かりやすく 'NG' を表示
-            # raise Exception('No Drive')
             print('NG')
 ```
 **Baby クラス**
