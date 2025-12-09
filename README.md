@@ -113,7 +113,7 @@
 </details>
 
 <details>
-<summary id="section7">📝  Section 7： オブジェクトとクラス 🔽</summary>
+<summary id="section7">📝  モードSection 7： オブジェクトとクラス 🔽</summary>
  
  - [78. クラスの定義](section07/section07_78.md)  
  - [79. クラスの初期化とクラス変数](section07/section07_79.md)  
@@ -133,6 +133,19 @@
 
 <details>
 <summary id="section8">📝  Section 8： ファイル操作とシステム 🔽</summary>
+ - [91. ファイルの作成](section08/section08_91.md)  
+ - [92. withステートメントでファイルをopenする](section08/section08_92.md)  
+ - [93. ファイルの読み込み](section08/section08_93.md)  
+ - [94. seekを使って移動する](section08/section08_94.md)  
+ - [95. 書き込み読み込みモード](section08/section08_95.md)  
+ - [96. テンプレート](section08/section08_96.md)  
+ - [97. CSVファイルへの書き込みと読み込み](section08/section08_97.md)  
+ - [98. ファイル操作](section08/section08_98.md)  
+ - [99. tarfileの圧縮展開](section08/section08_99.md)  
+ - [100. zipfileの圧縮展開](section08/section08_100.md)  
+ - [101. tempfile](section08/section08_101.md)  
+ - [102. subprocessでコマンドを実行する](section08/section08_102.md)  
+ - [103. datetime](section08/section08_103.md)  
  
 </details>
 
