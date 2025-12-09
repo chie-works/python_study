@@ -5,15 +5,8 @@
 </div>
 
 ```python
+with open('test.txt', 'w') as f:
+    f.write('test\n')
 
-```
-## ✨ 学習のまとめ
-- 
-
-<div align="right">
-  <a href="../README.md#section8">◀️READMEに戻る<a>
-</div>
-
-
-
-
+# withブロックを抜けると、自動的に f.close() が呼ばれる
+# → 明示的に close() を書かなくても安全にファイルが閉じられる```
