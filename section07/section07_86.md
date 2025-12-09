@@ -50,7 +50,7 @@ adult.drive()  # → OK
 - ` @abc.abstractmethod `を付けた` drive() `は「必ずサブクラスで実装しなければならない」。
 - そのため` Person `を直接インスタンス化するとエラーになる。
 - 抽象クラス` Person `が「設計図」として存在し、サブクラスに` drive() `の実装を強制している。
-- `Baby `と` Adult `はそれぞれの条件に応じて` drive() `を具体化している。
+- ` Baby `と` Adult `はそれぞれの条件に応じて` drive() `を具体化している。
 
 <div align="right">
   <a href="../README.md#section7">◀️READMEに戻る<a>
