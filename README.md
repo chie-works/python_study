@@ -113,7 +113,7 @@
 </details>
 
 <details>
-<summary id="section7">📝  モードSection 7： オブジェクトとクラス 🔽</summary>
+<summary id="section7">📝  Section 7： オブジェクトとクラス 🔽</summary>
  
  - [78. クラスの定義](section07/section07_78.md)  
  - [79. クラスの初期化とクラス変数](section07/section07_79.md)  
