@@ -84,7 +84,6 @@ with open(file_name, 'w') as f:
 - ` time.sleep `： プログラムを一時停止
 - ` os.path.exists `： ファイル存在チェック
 - ` shutil.copy `： ファイルコピー（バックアップ用途に便利）
-- ` with open(..., 'w') `： ファイル書き込み
 
 
 <div align="right">
