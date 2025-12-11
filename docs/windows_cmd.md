@@ -1,0 +1,46 @@
+## Windowsコマンド一覧
+---
+<div align="right"><a href="../README.md#5-その他">◀️READMEに戻る</a></div>
+
+
+検索したいコマンドを指定する
+where
+
+表示をクリアする
+cls
+
+ファイルやディレクトリの情報を表示する
+dir
+
+ディレクトリ間の移動
+cd
+
+ディレクトリを作成
+md
+
+テキストファイルの内容を表示
+type
+
+ディレクトリを移動 
+move
+
+ディレクトリをコピー
+xcopy /e /c /h
+
+ディレクトリを削除 
+rd 
+
+ファイルを移動
+move
+
+ファイルをコピー
+copy
+
+ファイルを削除
+del
+
+現在のディレクトリの場所を確認する
+dir
+
+
+<div align="right"><a href="../README.md#5-その他">◀️READMEに戻る</a></div>
