@@ -55,11 +55,12 @@ print(contents)
 ```
 ## ✨ 学習のまとめ
 **` string.Template `**
-- ` $変数名 `の形式でプレースホルダを定義できる。
-- ` substitute() `で辞書やキーワード引数を渡すと置換される。
+- ` $変数名 `の形式でプレースホルダを定義できる
+- ` substitute() `で辞書やキーワード引数を渡すと置換される
+
 **` substitute() `と` safe_substitute() `の違い**
-- ` substitute() `： プレースホルダが不足するとエラー。
-- ` safe_substitute() `： プレースホルダが不足してもそのまま残す。
+- ` substitute() `： プレースホルダが不足するとエラー
+- ` safe_substitute() `： プレースホルダが不足してもそのまま残す
 
 <div align="right">
   <a href="../README.md#section8">◀️READMEに戻る<a>
