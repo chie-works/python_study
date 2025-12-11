@@ -46,13 +46,16 @@ print(temp_dir)
 **` TemporaryFile `**
 - ` 匿名 `の一時ファイルを作成
 - ` with `ブロック終了時に自動削除
+
 **` NamedTemporaryFile `**
 - ` 名前付き `の一時ファイルを作成
 - ` delete=False `を指定すると終了後も残る
 - ` t.name `でファイルパスを取得できる
+
 **` TemporaryDirectory `**
 - 一時ディレクトリを作成
 - ` with `ブロック終了時に自動削除
+
 **` mkdtemp `**
 - 一時ディレクトリを作成してパスを返す
 - 自動削除されないので、不要になったら手動で削除が必要
